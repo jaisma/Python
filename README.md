@@ -10,6 +10,12 @@ Random collection of Python work found on my computer
 - Locates all possible placement of eight Queens in game of chess so that none of them are in danger
 - Intentionally using all For-Loop for practice
 
+## Encryption
+- Just for fun
+- Part of cyptography project
+- Encrypts raw string with generated keys
+- polyalphabetic cipher
+
 ## Hit Miss Game
 - Just for fun
 - Hit or miss game on 3 locations for two players
